@@ -1,5 +1,4 @@
 #Towers of Hanoi
-#From Textbook - pg. 477
 
 '''
 This program has two main features:
