@@ -11,3 +11,5 @@ NOTES:
          to play a new game or end the current session. Both of these options implement correctly. 
     Program does not check for larger disks being placed on top of smaller disks (which is not allowed in game play). This
          feature should be added in order for users to not cheat the game.
+         
+*Main run file is TwrHanoi.py
