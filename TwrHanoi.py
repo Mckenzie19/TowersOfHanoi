@@ -201,12 +201,6 @@ class userGame(object):
                 self.choosenDisk=0
                 self.choosenPeg=0
 
-##    def getChDisk(self):
-##        return self.choosenDisk
-##
-##    def getChPeg(self):
-##        return self.choosenPeg
-
     #This is the command run when a peg button is clicked
     def choosePeg(self, i):
         self.choosenPeg=(i+1) #Saves the peg number
